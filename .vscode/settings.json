@@ -1,0 +1,23 @@
+{
+    "editor.fontSize": 14,
+    "files.autoSave": "onFocusChange",
+    "editor.defaultFormatter": "Dart-Code.flutter",
+    "editor.formatOnSave": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.suggest.preview": true,
+    "editor.suggest.localityBonus": true,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "GitHub Plus",
+    "workbench.preferredDarkColorTheme": "Dartpad Theme",
+    "telemetry.enableCrashReporter": false,
+    "dart.allowAnalytics": false,
+    "editor.suggestSelection": "first",
+    "editor.wordBasedSuggestions": false,
+    "editor.acceptSuggestionOnEnter": "smart",
+    "editor.quickSuggestions": true,
+    "[dart]": {
+        "editor.defaultFormatter": "Dart-Code.dart-code"
+    }
+}
