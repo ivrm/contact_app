@@ -2,7 +2,7 @@
 
 Demo skeleton for create custom contact app
 
-## Languages & Framework
+## Languages & Frameworks
 - Dart + Flutter
 - State manager: Scoped Model
 
