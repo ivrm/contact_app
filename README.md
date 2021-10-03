@@ -1,16 +1,23 @@
-# contacts_app
+# Contacts Manager
 
-A new Flutter project.
+## Demo skeleton for create custom contact app
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Create
+- Edit
+- View
+- Call
+- Email
+- Delete
 
-A few resources to get you started if this is your first Flutter project:
+## Screens
+![list](assets/images/list.jpeg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![create](assets/images/create.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![swipe left](assets/images/swipe_left.jpeg)
+
+![swipe right](assets/images/swipe_right.jpeg)
+
+
