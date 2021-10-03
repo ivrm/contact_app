@@ -7,6 +7,7 @@
 - Create
 - Edit
 - View
+- Make favorite
 - Call
 - Email
 - Delete
