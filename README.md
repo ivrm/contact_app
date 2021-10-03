@@ -1,6 +1,10 @@
 # Contacts Manager
 
-## Demo skeleton for create custom contact app
+Demo skeleton for create custom contact app
+
+## Languages & Framework
+- Dart + Flutter
+- State manager: Scoped Model
 
 ## Features
 
